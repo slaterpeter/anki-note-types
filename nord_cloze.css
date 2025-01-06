@@ -126,6 +126,7 @@ html:not(.mobile) .card {
 .cloze {
   background-color: var(--cloze-bg);
   color: var(--cloze-fg);
+  font-weight: bold;
 }
 
 /* -------------------------------------------------- DECK */
